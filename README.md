@@ -3,14 +3,14 @@ In this project we find 5 hottest topics from NIPS paper 1987-2015 with LDA. Man
 
 This floder contains:
 
-* 💕 [Main Codes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/ZhaMengyue.ipynb)
+* 💕 [Main Codes](https://github.com/Dolores2333/MATH5470/blob/main/ZhaMengyue.ipynb)
 * 💯 [Project Poster](https://github.com/Dolores2333/MATH5470/blob/main/MATH5470_Project_ZhaHuang_Poster.pdf)
-* 💯 [Project Report](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/CSIC5011_Mid_Project_ZhaHuang_report.pdf)
-* 🔥 [Picture Outcomes](https://github.com/Dolores2333/MATH5470/tree/main/Proj1/pics)
-* 🔥 [Text Outcomes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/TopTopics.txt)
-* 💕 [Hottest Topic Exploration](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/HottestTopicML.ipynb)
-* 💕 [t-SNE Exploration](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/T-sne.ipynb)
-* 🔥 [Intermediate Variables](https://github.com/Dolores2333/MATH5470/tree/main/Proj1/OutcomeData)
+* 💯 [Project Report](https://github.com/Dolores2333/MATH5470/blob/main/MATH5470_Project_ZhaHuang_Report.pdf)
+* 🔥 [Picture Outcomes](https://github.com/Dolores2333/MATH5470/tree/main/pics)
+* 🔥 [Text Outcomes](https://github.com/Dolores2333/MATH5470/blob/main/TopTopics.txt)
+* 💕 [Hottest Topic Exploration](https://github.com/Dolores2333/MATH5470/blob/main/HottestTopicML.ipynb)
+* 💕 [t-SNE Exploration](https://github.com/Dolores2333/MATH5470/blob/main/T-sne.ipynb)
+* 🔥 [Intermediate Variables](https://github.com/Dolores2333/MATH5470/tree/main/OutcomeData)
 
 ### ⭐ Dataset
 * 🌲 [NIPS 1987-2015](https://archive.ics.uci.edu/ml/datasets/NIPS+Conference+Papers+1987-2015)
