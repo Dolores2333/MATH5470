@@ -4,7 +4,7 @@ In this project we find 5 hottest topics from NIPS paper 1987-2015 with LDA. Man
 This floder contains:
 
 * 💕 [Main Codes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/ZhaMengyue.ipynb)
-* 💯 [Project Poster](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/CSIC5011_Mid_Project_ZhaHuang_poster.pdf)
+* 💯 [Project Poster](https://github.com/Dolores2333/MATH5470/blob/main/MATH5470_Project_ZhaHuang_Poster.pdf)
 * 💯 [Project Report](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/CSIC5011_Mid_Project_ZhaHuang_report.pdf)
 * 🔥 [Picture Outcomes](https://github.com/Dolores2333/MATH5470/tree/main/Proj1/pics)
 * 🔥 [Text Outcomes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/TopTopics.txt)
