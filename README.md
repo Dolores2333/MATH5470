@@ -1,1 +1,21 @@
-# MATH5470
+# ⭐ MATH 5470 Project: NIPS Paper Explained
+In this project we find 5 hottest topics from NIPS paper 1987-2015 with LDA. Manifold methods were used to visualize the outcome given by LDA. We also explored the data by WordCould, ploting trend of topics and paper number trend.
+
+This floder contains:
+
+* 💕 [Main Codes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/ZhaMengyue.ipynb)
+* 💯 [Project Poster](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/CSIC5011_Mid_Project_ZhaHuang_poster.pdf)
+* 💯 [Project Report](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/CSIC5011_Mid_Project_ZhaHuang_report.pdf)
+* 🔥 [Picture Outcomes](https://github.com/Dolores2333/MATH5470/tree/main/Proj1/pics)
+* 🔥 [Text Outcomes](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/TopTopics.txt)
+* 💕 [Hottest Topic Exploration](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/HottestTopicML.ipynb)
+* 💕 [t-SNE Exploration](https://github.com/Dolores2333/MATH5470/blob/main/Proj1/T-sne.ipynb)
+* 🔥 [Intermediate Variables](https://github.com/Dolores2333/MATH5470/tree/main/Proj1/OutcomeData)
+
+### ⭐ Dataset
+* 🌲 [NIPS 1987-2015](https://archive.ics.uci.edu/ml/datasets/NIPS+Conference+Papers+1987-2015)
+* 🌲 [NIPS 1987-2016](https://www.kaggle.com/benhamner/nips-papers)
+
+### ⭐ Contribution 
+* 🌸 ZHA Mengyue mzha@connect.ust.hk
+* 🌸 HUANG Chutian chuangat@connect.ust.hk
