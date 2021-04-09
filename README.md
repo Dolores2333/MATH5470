@@ -1,5 +1,5 @@
 # ⭐ MATH 5470 Project: NIPS Paper Explained
-In this project we find 5 hottest topics from NIPS paper 1987-2015 with LDA. Manifold methods were used to visualize the outcome given by LDA. We also explored the data by WordCould, ploting trend of topics and paper number trend.
+In this project we find 5 hottest topics from NIPS paper 1987-2015 with LDA. Manifold methods were used to visualize the outcome given by LDA. We also explored the data by WordCould, ploting the trend of topics and the amount of total published paper.
 
 This floder contains:
 
